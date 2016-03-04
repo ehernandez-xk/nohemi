@@ -1,5 +1,5 @@
-title:            Nohemi Blog
-description:      "Nohemi, la Noe"
+title:            Nohemi
+description:      "El blog de Nohemi"
 logo:             logo.png
 disqus_shortname: hmfaysal
 share:            true
@@ -12,7 +12,7 @@ url:        	  http://ehernandez-xk.github.com/nohemi/
 
 # Owner/author information
 owner:
-  name:           Salón Nohemi
+  name:           Nohemi Hernandez
   avatar:         hmfaysal.jpg
   email:          salonnohemi@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
