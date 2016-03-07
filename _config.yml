@@ -7,8 +7,8 @@ dropcap:			true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-
-url:        	  http://ehernandez-xk.github.com/nohemi/
+#url:        	  http://localhost:4000
+url:            http://ehernandez-xk.github.com/nohemi/
 
 # Owner/author information
 owner:
@@ -17,16 +17,14 @@ owner:
   email:          salonnohemi@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    Más de 30 años de experiencia en el área de belleza.
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        twitterID
   facebook:       Salon-Nohemi-152289483612
-  github:         guthubID
-  instagram:      instragramID
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  #twitter:        twitterID
+  #github:         guthubID
+  #instagram:      instragramID
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-39365944-7
+#google_analytics:   googleAnalyticsID
+
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
