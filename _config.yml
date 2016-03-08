@@ -16,7 +16,7 @@ owner:
   avatar:         hmfaysal.jpg
   email:          salonnohemi@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Más de 30 años de experiencia en el área de belleza.
+  description:    Más de 30 años de experiencia en saón belleza.
   facebook:       Salon-Nohemi-152289483612
   #twitter:        twitterID
   #github:         guthubID
@@ -44,7 +44,7 @@ links:
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Asia/Dhaka
+timezone:    America/Guatemala
 future:      true
 rouge: pygments
 markdown:    kramdown
