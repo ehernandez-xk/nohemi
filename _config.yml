@@ -32,15 +32,15 @@ bing_verify:
 # Links to include in footer navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: Inicio
     url: /
     external: false
     icon: home
-  - title: Featured Posts
-    url: /featured
-  - title: Categories
+  - title: Posts favoritos
+    url: /favoritos
+  - title: Categorias
     url: /categories
-  - title: About
+  - title: Sobre mi
     url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
